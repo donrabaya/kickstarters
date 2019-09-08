@@ -15,20 +15,7 @@
     </div>
     <!-- Choose Team Block -->
     <div>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloo</h1>
-     <h1>heloßo</h1>
+    
     </div>
   </div>
 </template>
